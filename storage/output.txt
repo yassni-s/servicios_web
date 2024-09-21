@@ -1,0 +1,5 @@
+{
+    "NAME": "ELIZA",
+    "AGE": 30,
+    "CITY": "POPAYÁN"
+}

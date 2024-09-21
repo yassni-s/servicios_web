@@ -1,1 +1,5 @@
-Este es un texto de prueba.
+{
+    "name": "Eliza",
+    "age": 30,
+    "city": "Popayán"
+}
